@@ -9,7 +9,7 @@ public class Cliente {
 		ModeloCliente cliente1 = new ModeloCliente();
 		Scanner ler = new Scanner(System.in);
 		
-		System.out.println("*********FUNCIONARIO 1*********");
+		System.out.println("*********CLIENTE 1*********");
 		cliente1.nome = "john Silva";
 		cliente1.nascimento = "19 de dezembro de 1990";
 		cliente1.sexo = "masculino";
